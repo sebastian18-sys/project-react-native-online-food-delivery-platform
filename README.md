@@ -51,3 +51,7 @@ npm install react-native-gesture-handler
 npm install react-native-bouncy-checkbox
 
 npm install tslib
+
+# REDUX
+
+npm install react-redux
