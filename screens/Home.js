@@ -7,7 +7,7 @@ import Categories from "../components/home/Categories";
 import RestaurantItem, { localRestaurants } from "../components/home/RestaurantItem";
 import BottomTabs from "../components/home/BottomTabs";
 
-const YELP_API_KEY = "YGiF_K8IiAJDhdE_7dCu_DlOgjCuOsi1dyyZkcDS634P_nRJ-_mdCBQ4dZC3je_HHKVY6zhHjBKQ-zko5R3ldxdEAzVRRCZG2Sn8WENEJohETrNNqTptAcJZ2ylhYXYx";
+const YELP_API_KEY = "<your_key_from_yelp>";
 
 export default function Home({ navigation }) {
 
