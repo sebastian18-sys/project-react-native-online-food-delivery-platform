@@ -55,3 +55,9 @@ npm install tslib
 # REDUX
 
 npm install react-redux
+
+# ANIMATED
+
+npm install react-native-reanimated
+
+npm install reanimated-bottom-sheet
